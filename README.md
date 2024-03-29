@@ -23,7 +23,6 @@ src/: Source code for data preprocessing, feature selection, and model developme
 results/: Directory containing visualizations and performance metrics of the developed model.
 README.md: Detailed instructions on how to use the project and reproduce the results.
 Usage:
-Clone the repository: git clone https://github.com/yourusername/startup-success-prediction.git
 Navigate to the project directory: cd startup-success-prediction
 Install dependencies: pip install -r requirements.txt
 Run the Jupyter notebooks in the notebooks/ directory to explore the data and execute the analysis.
